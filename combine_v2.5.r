@@ -134,6 +134,11 @@ screen <- function(f){
 # 创建汇总空dataframe
 sum_frame <- data.frame(RT='RT',T1='T1',JF='JF',YR='YR',K1='K1',A1='A1',AD='AD',SIGN='SIGN',DS='DS',stringsAsFactors = FALSE)
 
+# 改变目录
+path <- getwd()
+inputpath <- paste(path,'/input',sep='')
+setwd(inputpath)
+
 # 读取文件
 filelist <- list.files(pattern="*.txt")
 for(f in filelist){
@@ -158,6 +163,8 @@ print(summary(sum_frame))
 print(sum_frame$SIGN)
 
 # 写入
+# 改变目录
+setwd(path)
 # 去除SIGN
 for(i in 1:length(sum_frame[,1])){
     cat(paste('RT ',as.character(sum_frame[i,]$RT),'\n',sep=''),file='output.txt',append=TRUE)
