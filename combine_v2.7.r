@@ -69,13 +69,17 @@ screen <- function(f){
             # T1规范化
             T1T <- gsub(' ','',T1T)
         }else if(substring(i,1,2)=='JF'){
-            JFT <- substring(i,4,nchar(i))
+            if(is.na(JFT)){
+                JFT <- substring(i,4,nchar(i))
+            }
         }else if(substring(i,1,2)=='YR'){
             YRT <- substring(i,4,nchar(i))
         }else if(substring(i,1,2)=='K1'){
             # 关键词提取
             # 万方 空格替换为';'
-            K1T <- gsub('  ',';',substring(i,4,nchar(i)))
+            if(is.na(K1T)){
+                K1T <- gsub('  ',';',substring(i,4,nchar(i)))
+            }
         }else if(substring(i,1,2)=='A1'){
             # 作者提取
             # wf '; '替换为';'
@@ -83,7 +87,7 @@ screen <- function(f){
             # wf '  '替换为';'
             A1T <- gsub('  ',';',A1T)
             # wf去除[]
-            A1T <- gsub('[.*]','',A1T)
+            A1T <- gsub('\\[.*\\]','',A1T)
             # vip,wf,cbm末尾加';'
             if(substring(A1T,nchar(A1T),nchar(A1T))!=';'){
                 A1T <- paste(A1T,sep='',';')
@@ -125,7 +129,7 @@ screen <- function(f){
     DS <- DS[2:length(DS)]
     # 合成data frame
     all_frame <- data.frame(RT=RT,T1=T1,JF=JF,YR=YR,K1=K1,A1=A1,AD=AD,SIGN=SIGN,DS=DS,stringsAsFactors = FALSE)
-    print(summary(all_frame))
+    print(length(all_frame[,1]))
     return(all_frame)
 }
 
@@ -150,17 +154,19 @@ for(f in filelist){
 # 去除初始行
 sum_frame <- sum_frame[-1,]
 # 得到所有数据
-print(summary(sum_frame))
+print('提取总数据：')
+print(length(sum_frame[,1]))
 
 # 清洗NA值
 sum_frame <- na.omit(sum_frame)
 # 得到有效数据
-print(summary(sum_frame))
+print('提取有效数据：')
+print(length(sum_frame[,1]))
 
 # 清洗重复数据
 sum_frame <- sum_frame[!duplicated(sum_frame$SIGN),]
-print(summary(sum_frame))
-print(sum_frame$SIGN)
+print('去除重复数据：')
+print(length(sum_frame[,1]))
 
 # 写入
 # 改变目录
@@ -177,4 +183,3 @@ for(i in 1:length(sum_frame[,1])){
     cat(paste('DS ',as.character(sum_frame[i,]$DS),'\n',sep=''),file='output.txt',append=TRUE)
     cat('\n',file='output.txt',append=TRUE)
 }
-# cat(paste('RT ',as.character(df[1,]$a),'\n',sep=''),file='output.txt',append=TRUE)
