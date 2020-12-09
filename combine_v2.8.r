@@ -188,41 +188,22 @@ print(c(min(sum_frame$YR),max(sum_frame$YR)))
 n1 <- 0
 n2 <- 0
 n3 <- 0
-n4 <- 0
-n5 <- 0
 for(i in sum_frame$YR){
     if(i == max(sum_frame$YR)){
         n1 <- n1+1
-    }else if(i %in% (max(sum_frame$YR)-10):max(sum_frame$YR)-1){
-        # 09-19
-        n2 <- n2+1
     }else if(i %in% (max(sum_frame$YR)-9):max(sum_frame$YR)){
-        # 10-20
-        n3 <- n3+1
-    }else if(i %in% (max(sum_frame$YR)-5):max(sum_frame$YR-1)){
-        n4 <- n4+1
-    }else if(i %in% (max(sum_frame$YR)-4):max(sum_frame$YR)){
-        n5 <- n5+1
+        # 11-20
+        n2 <- n2+1
+        if(i %in% (max(sum_frame$YR)-9):max(sum_frame$YR)){
+            # 16-20
+            n3 <- n3+1
+        }
     }
 }
 
-print('最近1年 近10年 近10年* 近5年 近5年*')
-print(c(n1,n2,n3,n4,n5))
-print('*包括最近的年份')
+print('最近1年 近10年 近5年 文献数量')
+print(c(n1,n2,n3))
 
 
 # 写入
 write.table(sum_frame,file='eligible_data.csv',sep=',',row.names = FALSE)
-#read.table('eligible_data.csv',sep=',',header=TRUE,as.is=TRUE)
-
-#for(i in 1:length(sum_frame[,1])){
-#1    cat(paste('RT ',as.character(sum_frame[i,]$RT),'\n',sep=''),file='output.txt',append=TRUE)
-#    cat(paste('A1 ',as.character(sum_frame[i,]$A1),'\n',sep=''),file='output.txt',append=TRUE)
-#    cat(paste('AD ',as.character(sum_frame[i,]$AD),'\n',sep=''),file='output.txt',append=TRUE)
-#    cat(paste('T1 ',as.character(sum_frame[i,]$T1),'\n',sep=''),file='output.txt',append=TRUE)
-#    cat(paste('JF ',as.character(sum_frame[i,]$JF),'\n',sep=''),file='output.txt',append=TRUE)
-#    cat(paste('YR ',as.character(sum_frame[i,]$YR),'\n',sep=''),file='output.txt',append=TRUE)
-#    cat(paste('K1 ',as.character(sum_frame[i,]$K1),'\n',sep=''),file='output.txt',append=TRUE)
-#    cat(paste('DS ',as.character(sum_frame[i,]$DS),'\n',sep=''),file='output.txt',append=TRUE)
-#    cat('\n',file='output.txt',append=TRUE)
-#}
