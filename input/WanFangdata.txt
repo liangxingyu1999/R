@@ -1,0 +1,792 @@
+RT Journal
+T1 电针并艾灸治疗女性压力性尿失禁30例
+JF 中医外治杂志
+JF Journal of External Therapy of Traditional Chinese Medicine
+SN 1006-978X
+YR 2018
+VO 27
+IS 4
+OP 37-38
+AB 目的:观察电针并艾灸治疗女性压力性尿失禁的效果并探讨其作用机理.方法:将90例患者随机分为三组,电针组、艾灸组、治疗组.电针组给予穴位针刺得气后留针,气海、关元为一组,足三里为一组,接电子治疗仪,连续波20 min;艾灸组给予肾俞穴艾灸治疗;治疗组则在电针治疗的基础上加用肾俞穴艾灸.三组均为1次／d,12次为1疗程.休息5d,24次后评价疗效.结果:治疗组治疗后ICI-Q-SF分值、1h尿垫试验漏尿量与电针组、艾灸组差异有统计学意义(P＜0.05),可见治疗组漏尿次数、漏尿程度、尿失禁对生活影响程度等改善优于电针组、艾灸组;治疗组治疗效果与电针组、艾灸组差异有统计学意义(P＜0.05),治疗组有效率最高、电针组次之、艾灸组最低;治疗组对患者生活质量评估SF-36量表得分明显高于电针组、艾灸组,有统计学意义(P＜0.05),治疗组患者的体能、精神、心理健康等均优于电针组、艾灸组.结论:电针并艾灸治疗女性压力性尿失禁疗效显著,值得推广.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=zywzzz201804019
+DO 10.3969/j.issn.1006-978X.2018.04.019[doi]
+A1 肖桂荣
+NO 作者个数:1;第一作者:肖桂荣
+AD 中国中医科学院眼科医院针灸科,北京,100040
+K1 压力性尿失禁  电针  艾灸
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 盆底肌训练配合艾灸治疗女性压力性尿失禁的临床效果
+JF 饮食保健
+JF Diet Health
+SN 2095-8439
+YR 2020
+VO 7
+IS 1
+OP 97-98
+AB 目的:探究盆底肌训练配合艾灸治疗女性压力性尿失禁的临床效果.方法:选择我院自2018年1月至2018年12月收治的86例女性压力性尿失禁患者作为研究对象,采用随机数字表法将其分成对照组和研究组,每组43例,对照组采用盆底肌训练治疗,研究组采用盆底肌训练配合艾灸治疗,对比两组治疗总有效率.结果:研究组患者治疗总有效率(97.67％)显著高于对照组(79.07％),两组对比具有统计学意义(P<0.05).结论:盆底肌训练配合艾灸治疗女性压力性尿失禁的临床效果显著,值得推广.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=yinsbj202001125
+A1 邱小波
+NO 作者个数:1;第一作者:邱小波
+AD 重庆市丰都县中医院 丰都县 408200
+K1 盆底肌训练  艾灸  压力性尿失禁
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 艾灸涌泉配合电针治疗女性压力性尿失禁20例
+JF 福建中医药
+JF Fujian Journal of Traditional Chinese Medicine
+SN 1000-338X
+YR 2017
+VO 48
+IS 3
+OP 66,70
+AB 尿失禁是一种影响生活质量的常见病症,而女性由于其特殊的生理因素,更是尿失禁的常见发病人群.其中压力性尿失禁(stress urinary incontinence,SUI)占女性各类型尿失禁的49％,是最常见的女性尿失禁类型[1].笔者应用艾灸涌泉配合电针治疗女性压力性尿失禁20例,疗效确切,现报道如下.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=fjzyy201703027
+A1 林玲
+NO 作者个数:1;第一作者:林玲
+AD 福建中医药大学附属第三人民医院,福建福州,350122
+K1 压力性尿失禁  涌泉  艾灸  电针  女性
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 盆底肌功能训练联合艾灸关元穴治疗女性压力性尿失禁的临床研究
+T2 Clinical Study on Treating the Female Stress Urinary Incontinence by Functional Training of Pelvic Floor Muscles Combining with Moxa-Wool Moxibustion at Guanyuan(RN4)
+JF 世界中医药
+JF World Chinese Medicine
+SN 1673-7202
+YR 2019
+VO 14
+IS 11
+OP 3058-3062
+AB 目的:观察盆底肌功能训练联合艾灸关元穴治疗女性压力性尿失禁的临床疗效.方法:选取2017年3月至2018年3月北京中医药大学第三附属医院收治的女性压力性尿失禁患者60例作为研究对象,按照随机数字表法分为A、B、C 3组,每组20例.A组采用盆底肌功能训练,B组采用艾灸关元穴,C组采用盆底肌功能训练联合艾灸关元穴.评价3组患者治疗前、治疗8周后国际尿失禁咨询委员会尿失禁问卷简表(ICI-Q-SF)评分、盆底肌肌力的变化,评价3组患者治疗后临床疗效,同时随访6个月后3组患者ICI-Q-SF评分、盆底肌肌力、临床疗效,观察盆底肌功能训练联合艾灸关元穴对女性压力性尿失禁疗效的影响.结果:治疗前3组患者ICI-Q-SF评分、盆底肌肌力差异均无统计学意义(P>0.05),治疗后3组患者ICI-Q-SF评分均有所下降(P<0.05),盆底肌肌力均有所提高,并且C组效果明显高于A、B组(P<0.05),6个月后随访ICI-Q-SF评分、盆底肌肌力、临床疗效C组效果明显高于A、B组(P<0.05).结论:盆底肌功能训练联合艾灸关元穴是治疗女性压力性尿失禁的有效方法,值得临床推广.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=sjzyy201911055
+DO 10.3969/j.issn.1673-7202.2019.11.052[doi]
+A1 蒋莉; 息金波; 刘冬; 郑思思; 赵秀萍; 刘绍明; 赵盟杰; 高森; 赵通; 宋小波;[Jiang Li; Xi Jinbo; Liu Dong; Zheng Sisi; Zhao Xiuping; Liu Shaoming; Zhao Mengjie; Gao Sen; Zhao Tong; Song Xiaobo]
+NO 作者个数:10;第一作者:蒋莉
+AD 北京中医药大学,北京,100020;北京中医药大学第三附属医院,北京,100020;北京中医药大学第三附属医院,北京,100020;重庆三峡中心医院康复科,重庆,404100
+K1 压力性尿失禁  盆底肌功能训练  艾灸  女性
+LA chi
+PP 中国
+DS 万方数据
+基金项目:北京中医药大学新教师启动基金项目(2018-JYB22-XJSJJ035)%北京中医药大学青年教师项目(2018-JYBZZ-JS193)
+
+RT Journal
+T1 艾灸结合益气补肾汤治疗轻中度女性压力性尿失禁临床观察
+JF 实用中医药杂志
+JF Journal of Practical Traditional Chinese Medicine
+SN 1004-2814
+YR 2019
+VO 35
+IS 9
+OP 1049-1050
+AB 目的:观察艾灸结合益气补肾汤治疗轻中度女性压力性尿失禁的效果.方法:97例随机分为两组,对照组48例予以艾灸治疗,观察组49例用艾灸及益气补肾汤治疗.结果:观察组总有效率及VMCC、PMUC、PMU指标高于对照组(P＜0.05),尿失禁频率及尿垫试验漏尿量低于对照组(P＜0.05).结论:艾灸结合益气补肾方能增强盆底肌力,提高尿动力学指标,减少尿失禁频率,疗效较好.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=syzyyzz201909006
+A1 王新娟
+NO 作者个数:1;第一作者:王新娟
+AD 河南省鲁山县人民医院妇产科,河南鲁山,467300
+K1 压力性尿失禁  艾灸  益气补肾汤
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 艾灸配合盆底康复治疗女性压力性尿失禁的疗效观察
+JF 广西中医药大学学报
+JF Journal of Guangxi University of Chinese Medicine
+SN 2095-4441
+YR 2016
+VO 19
+IS 2
+OP 39-40
+AB [目的]观察艾灸配合盆底肌训练治疗女性压力性尿失禁的效果.[方法]100例压力性尿失禁患者随机分为治疗组与对照组各50例,两组均使用盆底功能障碍治疗仪(法国PHENIX)治疗,治疗组加用穴位艾灸治疗,用艾条灸关元、中极、肾俞、膀胱俞,约0.5h1次,连灸4周.[结果]治疗35 d后,两组患者盆底肌肉收缩力均较治疗前明显提升,且治疗组评分明显高于对照组(P＜0.01).[结论]艾灸配合盆底康复治疗女性压力性尿失禁安全、简便、无创、有效,其疗效明显优于单纯性训练治疗,值得临床推广.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=gxzyxyxb201602019
+A1 梁鸿
+NO 作者个数:1;第一作者:梁鸿
+AD 广西中医药大学第一附属医院,广西南宁,530023
+K1 压力性尿失禁  生物反馈电刺激  盆底肌训练  艾灸
+LA chi
+PP 中国
+DS 万方数据
+
+RT Dissertation
+T1 艾灸加生物反馈电刺激结合运动疗法治疗女性轻中度压力性尿失禁的临床观察
+A1 宫双
+A3 王艳
+ED 硕士
+PB 黑龙江中医药大学
+NO 康复医学与理疗学
+YR 2018
+CL R694.540.5
+AB 目的：
+　　观察艾灸加生物反馈电刺激结合运动疗法对女性压力性尿失禁的疗效，为女性轻、中度压力性尿失禁提供有效的康复方案。
+　　方法：
+　　根据随机数字表法，将来自于黑龙江中医药大学附属第二医院康复中心及病房的60例符合纳入标准的压力性尿失禁患者分为3组，A组为艾灸疗法组20例，B组为生物反馈电刺激疗法组20例，C组为艾灸+生物反馈电刺激疗法组20例，三组均给予运动疗法作为基础治疗，A组加艾灸疗法，B组加生物反馈电刺激疗法，C组加艾灸结合生物反馈电刺激疗法。三组患者在治疗前与治疗四周后通过盆底肌综合肌力、肛提肌裂孔面积、ICI-Q-SF评分变化及3个月后临床疗效随访，观察艾灸加生物反馈电刺激结合运动疗法对女性压力性尿失禁的影响。
+　　结果：
+　　1.盆底肌综合肌力治疗前三组患者盆底肌肌力比较，差异无统计学意义（P＞0.05）;治疗后三组患者盆底肌肉肌力异常例数减少，正常例数增多，与治疗前相比差异具有统计学意义（P＜0.05）;三组间比较，差异具有统计学意义（P＜0.05）C组在提高盆底肌肉肌力方面优于B组和A组（P＜0.05）;
+　　2.肛提肌裂孔面积治疗前三组患者肛提肌裂孔面积，差异无统计学意义（P＞0.05）;治疗后三组患者肛提肌裂孔面积均有缩小，与治疗前相比差异具有统计学意义（P＜0.05）;三组间比较，差异具有统计学意义(P＜0.05)C组在缩小肛提肌裂孔面积方面优于B组和A组;
+　　3.ICI-Q-SF评分治疗前三组患者ICI-Q-SF评分，差异无统计学意义（P＞0.05）;治疗后三组患者ICI-Q-SF评分均有所减小，与治疗前相比差异有统计学（P＜0.05），三组间比较，差异具有统计学意义（P＜0.05），多重比较，A组与B组间ICI-Q-SF评分，差异无统计学意义（P＞0.05），C组优于A组、B组，差异具有统计学意义（P＜0.05）;
+　　4.临床疗效随访治疗结束3个月后，C组疗效优于B组和A组，差异具有统计学意义(P＜0.05)。
+　　结论：
+　　1.艾灸疗法结合运动疗法、生物反馈电刺激疗法结合运动疗法以及三者结合均能改善女性盆底功能，减轻女性轻、中度压力性尿失禁的症状，提高生活质量;
+　　2.艾灸加生物反馈电刺激结合运动疗法在远期改善女性盆底功能，减轻女性轻、中度压力性尿失禁的症状，提高生活质量方面疗效更优。
+K1 压力性尿失禁 女性患者 艾灸 生物反馈电刺激 运动疗法 疗效评价
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 艾灸加生物反馈电刺激结合运动疗法治疗女性轻中度压力性尿失禁的临床研究
+T2 Clinical Study of Female Mild-Moderate Stress Incontinence Treated By Moxibustion Plus Biofeedback Electrical Stimulation Combined With Exercise Therapy
+JF 针灸临床杂志
+JF Journal of Clinical Acupuncture and Moxibustion
+SN 1005-0779
+YR 2018
+VO 34
+IS 10
+OP 1-5
+AB 目的:观察艾灸和生物反馈电刺激结合运动疗法对女性压力性尿失禁的疗效,为女性轻中度压力性尿失禁提供有效的康复方案.方法:根据随机数字表法,将60例符合纳入标准的压力性尿失禁患者分为3组,A组为艾灸+运动疗法组20例,B组为生物反馈电刺激+运动疗法组20例,C组为艾灸+生物反馈电刺激+运动疗法组20例.3组患者在治疗前与治疗4周后通过盆底肌综合肌力、肛提肌裂孔面积、国际尿失禁咨询委员会尿失禁问卷简表(ICI-Q-SF)评分变化及3个月后临床疗效随访,观察艾灸加生物反馈电刺激结合运动疗法对女性压力性尿失禁的影响.结果:治疗前3组患者的盆底肌综合肌力、肛提肌裂孔面积、ICI-Q-SF评分均无显著差异(P＞0.05);治疗后3组患者的盆底肌综合肌力均提高(P＜0.05),肛提肌裂孔面积均缩小(P＜0.05),ICI-Q-SF评分均有所减小(P＜0.05),且C组效果优于A组和B组(P＜0.05).临床疗效随访结果显示,治疗结束3个月后,C组疗效优于B组和A组(P＜0.05).结论:艾灸疗法结合运动疗法、生物反馈电刺激疗法结合运动疗法及三者结合均能减轻女性轻中度压力性尿失禁的症状;艾灸加生物反馈电刺激结合运动疗法治疗女性轻中度压力性尿失禁的疗效优于运动疗法与艾灸或生物反馈电刺激结合,且远期疗效更佳.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=zjlczz201810002
+DO 10.3969/j.issn.1005-0779.2018.10.002[doi]
+A1 王艳; 董传菲; 宫双; 郭子楠; 郑琳琳;[WANG Yan; DONG Chuanfei; GONG Shuang; GUO Zinan; ZHENG Linlin]
+NO 作者个数:5;第一作者:王艳
+AD 黑龙江中医药大学附属第二医院,黑龙江哈尔滨,150001;黑龙江中医药大学,黑龙江哈尔滨,150040
+K1 压力性尿失禁  生物反馈电刺激  艾灸  运动疗法
+LA chi
+PP 中国
+DS 万方数据
+基金项目:国家自然基金(81674077)%黑龙江省自然科学基金(JJ2017ZR0135)%哈尔滨市科技局科技创新人才研究专项基金(2016RAXYJ106)
+
+RT Journal
+T1 艾灸辅佐生物反馈和电刺激治疗女性压力性尿失禁的临床观察
+JF 云南中医中药杂志
+JF Yunnan Journal of Traditional Chinese Medicine and Materia Medica
+SN 1007-2349
+YR 2018
+VO 39
+IS 7
+OP 63-64
+AB 目的 探索艾灸辅佐生物反馈和电刺激治疗女性压力性尿失禁的效果.方法 回顾性分析2016年5月19日-2017年5月19日期间本院压力性尿失禁200例患者(依据治疗方案分为对照组、观察组),对照组100例患者进行生物反馈和电刺激治疗,观察组100例患者进行艾灸辅佐生物反馈和电刺激治疗,并观察2组患者经相应治疗方案干预的临床疗效、盆底肌肉收缩力及ICI-Q-SF情况.结果 观察组患者的总有效率、Ⅰ类肌力4～5级率、Ⅱ类肌力4～5级率高于对照组,P＜0.05,且观察组治疗后3、7、15次盆底肌肉收缩力和ICI-Q-SF评分改善程度均优于对照组(P＜0.05).结论 对压力性尿失禁患者实施艾灸辅佐生物反馈和电刺激治疗效果显著,可改善盆底肌肉收缩力及尿失禁情况,提高临床疗效,值得在临床中推广实施.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=ynzyzyzz201807028
+DO 10.3969/j.issn.1007-2349.2018.07.028[doi]
+A1 张庆华; 卢奕超
+NO 作者个数:2;第一作者:张庆华
+AD 惠州市第二妇幼保健院,广东惠州,516000
+K1 艾灸  生物反馈  压力性尿失禁  电刺激
+LA chi
+PP 中国
+DS 万方数据
+基金项目:惠州市科技计划项目(20150809)
+
+RT Journal
+T1 艾灸治疗女性压力性尿失禁的临床研究进展
+T2 Clinical Research Progress of Moxibustion in the Treatment of Female Stress Urinary Incontinence
+JF 世界最新医学信息文摘（连续型电子期刊）
+JF World Latest Medicine Information
+SN 1671-3141
+YR 2020
+VO 20
+IS 58
+OP 189-190,196
+AB 压力性尿失禁作为女性常见的疾病,在现代社会严重影响了女性的健康和生活水平.几年来,中医药在本病的治疗中有了较快的临床发展和研究,尤其艾灸疗法对压力性尿失禁的治疗和研究.本文首先介绍艾灸常见临床材质及其艾灸作用机理的探讨,同时通过文献检索整理和研究近几年临床中常见的各种艾灸疗法.目前女性压力性尿失禁的艾灸治疗主要包括单纯艾灸治疗、艾灸结合针灸治疗、艾灸配合中药治疗、艾灸结合盆底肌训练、热敏灸治疗等方法 .为了便于医务工作者对这几种艾灸疗法的了解和推广,本文就这几种艾灸疗法近几年的临床应用和疗效做一探讨,为广大临床工作者提供一定参考.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=sjzxyy-e202058080
+DO 10.3969/j.issn.1671-3141.2020.58.080[doi]
+A1 杨鹏程; 安军明; 杨晓波; 王荣荣; 李彦娇;[YANG Peng-cheng; AN Jun-ming; YANG Xiao-bo; WANG Rong-rong; LI Yan-jiao]
+NO 作者个数:5;第一作者:杨鹏程
+AD 陕西中医药大学,陕西 咸阳;西安市中医医院针灸推拿康复科,陕西 西安;西安市中医医院B超室,陕西 西安
+K1 艾灸  女性压力性尿失禁  研究
+LA chi
+PP 中国
+DS 万方数据
+基金项目:(1.西安市科技局科研项目--热敏灸联合Kegel锻炼对轻中度女性单纯压力性尿失禁患者盆底结构形态学及功能改变的可视化研究的可行性报告,)%2.2019年西安市卫生健康委员会科研项目%SZJ201909%(3.西安市中医医院课题)%(4.陕西省方氏头针重点研究室)
+
+RT Journal
+T1 艾灸联合生物反馈与电刺激治疗女性压力性尿失禁的临床研究
+T2 Clinical Effects of Moxibustion Combined with Biofeedback and Electrical Stimulation in the Treatment of Female Stress Urinary Incontinence
+JF 华南国防医学杂志
+JF Military Medical Journal of South China
+SN 1009-2595
+YR 2017
+VO 31
+IS 5
+OP 313-316
+AB 目的 探讨艾灸联合生物反馈与电刺激治疗女性压力性尿失禁(stress urinary incongtinence,SUI)的临床效果.方法 收集作者医院妇产科门诊诊断为女性SUI患者120例,根据简单随机抽样的方法分为治疗组和对照组,各60例,对照组采用盆底康复仪进行盆底功能康复治疗(生物反馈+电刺激).治疗组在对照组的基础上,应用艾条灸气海、关元、中极穴.观察治疗前、治疗后及治疗后3个月与6个月时患者国际尿失禁咨询委员会尿失禁问卷表简表(international consultation on incontinence questionnaire urinary incontinence short form, ICI-Q-SF)评分及会阴肌力变化.结果 与对照组比较,治疗组治疗后及6个月ICI-Q-SF评分明显降低,组间比较差异具有统计学意义(P<0.05).一个疗程治疗后及3个月、6个月随访,治疗组较对照组I类肌力改善明显,组间比较差异有统计学意义(P<0.05);II类肌力改善不明显,组间比较差异无统计学意义(P>0.05).1个治疗疗程结束后、3个月、6个月总有效率优于对照组,组间比较差异有统计学意义(P<0.05).结论 艾灸联合生物反馈与电刺激治疗SUI的临床疗效优于单用盆底康复治疗.
+AB Objective To investigate the clinical efficacy of moxibustion combined with biofeedback and electrical stimulation in the treatment of stress urinary incontinence (SUI).Methods One hundred and twenty female SUI patients were divided into treatment and control groups by simple random sampling methods (n=60 cases).The control group received biofeedback and electrical stimulation.The treatment group received moxa stick fumigating some key acupoints such as Qihai, Guanyuan, Zhongji on the basis of control group's treatment.The international consultation on incontinence questionnaire urinary incontinence short form (ICI-Q-SF) scores were recorded and changes of perineum muscle strength were measured before and after treatment, 3-and 6-month treatment.Results Compared with control group, ICI-Q-SF scores in treatment group were significantly lower after treatment and 3-, 6-month follow-up visit (P<0.05).Compared with control group, perineum muscle strength with type I in treatment group increased obviously after treatment and 3-, 6-month follow-up visit (P<0.05), while no differences were found in type II (P>0.05).The total effective rates of treatment group after a course, 3 and 6 months were superior to those of control group (P<0.05).Conclusion The clinical effects of moxibustion plus biofeedback and electrical stimulation is superior to single pelvic floor rehabilitation.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=hngfyxzz201705008
+DO 10.13730/j.issn.1009-2595.2017.05.007[doi]
+A1 陈丽; 张娟; 王晶; 周月希; 栾蔓莉; 周俊;[CHEN Li; ZHANG Juan; WANG Jing; ZHOU Yue-xi; LUAN Man-li; ZHOU Jun]
+NO 作者个数:6;第一作者:陈丽
+AD 解放军武汉总医院妇产科, 湖北武汉,430070
+K1 压力性尿失禁  生物反馈与电刺激  艾灸
+K1 Stress urinary incontinence  Biofeedback and electrical stimulation  Moxibustion
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 艾灸联合盆底肌训练对女性单纯压力性尿失禁患者尿失禁严重指数的影响
+T2 The Influence of Moxibustion Therapy in Combination with Floor Muscle Training on Severity Index of Urinary Incontinence in Female Patients with Simple Stress Urinary Incontinence
+JF 河南中医
+JF Henan Traditional Chinese Medicine
+SN 1003-5028
+YR 2019
+VO 39
+IS 1
+OP 117-121
+AB 目的:观察艾灸联合盆底肌训练对女性单纯压力性尿失禁严重指数的影响.方法:选择2016年6月至2017年3月在西安市中医医院针灸推拿康复科就诊的女性轻中度单纯压力性尿失禁患者65例,采用随机数字表法分为对照组33例和治疗组32例.对照组给予单纯盆底肌训练治疗,治疗组给予艾灸疗法联合盆底肌训练治疗.两组第0周为筛选期,第1周至第8周为治疗期,第9周到第12周均为随访期,以平均24 h尿失禁次数的减少值、严重指数、平均24h漏尿程度为主要结局指标,以患者主观疗效评价、1h尿垫试验漏尿量的变化值、ICIQ-SF量表评分为次要结局指标,观察两组各评价时点的差异.结果:与对照组比较,治疗组平均24 h尿失禁次数的减少值、严重指数、平均24 h漏尿程度、1h尿垫试验漏尿量、ICIQ-SF量表评分优于对照组(P＜0.05).结论:艾灸联合盆底肌训练治疗女性压力性尿失禁起效快,近期疗效、远期疗效均优于单纯盆底肌训练,对于轻中度女性压力性尿失禁不愿接受针刺的患者,艾灸疗法配合盆底肌训练是一项较好的选择.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=hnzy201901030
+DO 10.16367/j.issn.1003-5028.2019.01.0029[doi]
+A1 张鼎; 安军明; 王夏; 杨璇; 安琪;[ZHANG Ding; AN Jun-ming; WANG Xia; YANG Xuan; AN Qi]
+NO 作者个数:5;第一作者:张鼎
+AD 西安市中医医院,陕西西安,710021;西安市中医脑病医院,陕西西安,710043;西安市第三医院,陕西西安,710018;北京中医药大学,北京,100029
+K1 压力性尿失禁  艾灸疗法  盆底肌训练
+K1 Stress urinary incontinence  Biofeedback and electrical stimulation  Moxibustion
+LA chi
+PP 中国
+DS 万方数据
+基金项目:陕西省科技厅社会发展领域项目(2017SF-363)%陕西省中医药管理局中医重点专科项目{陕中医药发[2012]55号}%陕西省中医药管理局方氏头针重点研究室项目{陕中医药发[2018] 32号}%西安市科技局医学研发项目(2016054SF/YX10(9) (2))%西安市医学优势专科项目{市卫发[2012]354号}%西安市医学重点专科项目{市卫计发[2018]27号}%西安市方氏头针流派传承工作室项目{市卫计函[2018]699号}
+
+RT Journal
+T1 艾灸联合自拟益气补肾汤治疗轻中度女性压力性尿失禁疗效及对生活质量的影响
+JF 现代中西医结合杂志
+JF Modern Journal of Integrated Traditional Chinese and Western Medicine
+SN 1008-8849
+YR 2018
+VO 27
+IS 11
+OP 1182-1184,1232
+AB 目的 观察艾灸联合自拟益气补肾汤治疗轻中度女性压力性尿失禁(SUI)的疗效及对生活质量的影响.方法 将120例轻中度女性SUI患者随机分为观察组60例及对照组60例,对照组给予传统的盆底肌锻炼治疗,观察组在对照组基础上给予艾灸联合自拟益气补肾汤治疗,2组均以4周为1个疗程,治疗2个疗程;观察2组临床疗效以及生活质量改善情况.结果 2组治疗1个疗程、2个疗程后的总排尿量、失禁频率、尿垫试验尿漏量、国际尿失禁咨询委员会尿失禁问卷简表(ICI-Q-S)评分、盆底肌力及尿动力学参数均明显改善(P均＜0.05),尿失禁生活质量问卷(I-QOL)中的总分及社会障碍、心理影响和行为限制3个维度评分均明显提高(P均＜0.05),而观察组上述指标改善情况均显著优于对照组(P均＜0.05).结论艾灸联合自拟益气补肾汤治疗轻中度女性SUI患者疗效确定,能够有效恢复膀胱的制约功能,减少失禁频率及漏尿量,改善盆底肌力及尿动力学,并提高患者生活质量.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=xdzxyjhzz201811012
+DO 10.3969/j.issn.1008-8849.2018.11.012[doi]
+A1 林静; 韩小岛; 张皓
+NO 作者个数:3;第一作者:林静
+AD 山东省青岛市中心医院,山东 青岛,266042
+K1 艾灸  益气补肾汤  压力性尿失禁  生活质量
+K1 Stress urinary incontinence  Biofeedback and electrical stimulation  Moxibustion
+LA chi
+PP 中国
+DS 万方数据
+
+RT Dissertation
+T1 艾灸治疗女性轻中度单纯性压力性尿失禁的临床疗效观察
+A1 王夏
+A3 安军明
+ED 硕士
+PB 陕西中医药大学
+NO 针灸推拿学
+YR 2017
+CL R246.9
+AB 目的：比较艾灸配合盆底肌训练与单纯盆底肌训练治疗女性轻中度单纯性压力性尿失禁的临床疗效。
+　　方法：本研究是一项随机对照试验，将65例女性轻中度单纯性压力性尿失禁患者采用随机数字表分为治疗组32例与对照组33例。治疗组灸穴选取：气海、关元、中极；肾俞、次髎。患者取仰卧位和俯卧位，研究者对患者穴位局部皮肤进行常规消毒后，将艾灸点燃放置在穴位上进行温和灸，令局部皮肤微红、发热。腹部腧穴与背部腧穴在每周一、三、五交替使用，1周3次，每次艾灸时间以一炷艾条燃尽直至余温消失为度。持续8周，共治疗24次。盆底肌训练方法同对照组。对照组盆底肌训练按kegel方法：研究者指导患者进行收缩盆底肌10s，放松10s，重复以上动作。盆底肌训练每周一、三、五进行，每周治疗3日，每日分早、中、晚三次，每次15分钟。持续8周，共72次。两组第0周为筛选期，第1周至第8周为治疗期，第9周到第12周均为随访期，评价时点：第8，12周。观察指标：基于72h排尿日记卡的平均24h漏尿程度，1h尿垫试验漏尿量的变化值，国际尿失禁咨询委员会尿失禁问卷表简表（简称ICIQ-SF表）。
+　　结果：治疗8周结束后，与基线期相比，两组的平均24h漏尿程度均降低；1h尿垫试验漏尿量均减少；ICIQ-SF表的评分也均有明显下降。组间比较发现，治疗组的平均24h漏尿程度、1h尿垫试验漏尿量的变化值、ICIQ-SF量表评分均明显低于对照组。治疗组的总有效率为90.6%，对照组的总有效率为75.8%。试验中，治疗组1例受试者被轻度烫伤，经过对患者进行局部消毒处理后,让水泡自行吸收,在2周后继续纳入观察病例,并且完成全部试验过程。
+　　结论：与单纯盆底肌训练相比，艾灸配合盆底肌训练治疗女性轻中度单纯性压力性尿失禁起效更快且更显著，更能提高患者的疗效。
+K1 盆底肌训练 压力性尿失禁 临床疗效 艾灸治疗
+K1 Stress urinary incontinence Biofeedback and electrical stimulation Moxibustion
+LA chi
+PP 中国
+DS 万方数据
+
+RT Dissertation
+T1 艾灸疗法联合PFMT治疗女性轻中度单纯压力性尿失禁的疗效观察
+A1 张鼎
+A3 安军明
+ED 硕士
+PB 陕西中医药大学
+NO 针灸推拿学
+YR 2017
+CL R246.9
+AB 目的:主要比较艾灸疗法和盆底肌训练治疗女性轻中度单纯压力性尿失禁的疗效，以及艾灸疗法和盆底肌训练疗法的患者依从性。
+　　方法：本研究选择于2016年6月-2017年3月前到西安市中医医院针灸推拿康复科就诊的女性轻中度单纯压力性尿失禁患者65例，采用随机数字表法分为2组：艾灸疗法联合盆底肌训练为治疗组，单纯盆底肌训练组为对照组。治疗组艾灸穴位选取气海穴、关元穴、中极穴、双侧肾俞穴、双侧次髎穴，腹部腧穴与背部腧穴在每周一、三、五交替使用。艾灸器材选取百笑灸，将百笑灸置于穴位上施行温和灸，致局部皮肤发热、微红。艾灸治疗每周一、三、五治疗一次，持续8周，共治疗24次，每次艾灸时间以每穴每柱百笑灸燃完为宜。盆底肌训练方法同对照组。对照组盆底肌训练按kegel方法，采取站立、坐位和仰卧等体位进行，训练之前确认排空膀胱。在研究人员的指导下进行收缩盆底肌10s，放松10s，重复以上动作，持续15分钟为一次治疗。每周在周一、三、五训练3回，每次训练分为早、中、晚三回，各15分钟，持续8周，共治疗24次。两组第0周为筛选期，第1周至第8周为治疗期，第9周到第12周均为随访期，以平均24小时尿失禁次数的减少值、严重指数评价表的变化为主要结局指标，其评价时点为第8周；以患者主观疗效评价为次要结局指标，其评价时点为第8、12周；观察两组在各评价时点的差异，探讨艾灸和盆底肌训练治疗女性压力性尿失禁的疗效。
+　　结果：
+　　1.治疗后，两组患者平均24h尿失禁次数均较治疗前减少，平均24h尿失禁减少次数治疗组优于对照组；
+　　2.两组患者尿失禁严重指数均较治疗前降低，且治疗组严重指数下降更为明显；
+　　3.患者的主观疗效评价均认为有帮助；治疗组的疗效在6、8周明显优于对照组。治疗8周后在第12周进行随访，与治疗前相比，治疗组患者主观疗效评价优于对照组。
+　　结论：艾灸联合盆底肌训练治疗女性压力性尿失禁起效快，近期疗效、远期疗效均优于单纯盆底肌训练组；对于轻中度女性压力性尿失禁患者，没有时间前往医院进行治疗的、或者不愿接受针刺的受试者，艾灸疗法配合盆底肌训练是一项较好的选择。
+K1 艾灸疗法 盆底肌训练 压力性尿失禁 疗效观察
+K1 Stress urinary incontinence Biofeedback and electrical stimulation Moxibustion
+LA chi
+PP 中国
+DS 万方数据
+
+RT Dissertation
+T1 艾灸联合生物反馈与电刺激治疗女性压力性尿失禁的临床观察
+A1 陈丽
+A3 张娟
+ED 硕士
+PB 湖北中医药大学
+NO 中西医结合临床
+YR 2017
+CL [R245.81, R246.3]
+AB 目的：压力性尿失禁为临床常见病，特别是中老年女性。随着我国社会人口老龄化日益加剧，本病的发病率呈上升趋势，严重地影响了妇女的正常生活和身心健康。妇女们常认为尿失禁是一种随年龄增长而出现的正常现象,羞于向他人提及，更很少主动就诊，除非被直接问及，直接影响生活质量。因此探寻一种科学有效并且简便的方法预防和治疗本病具有十分积极的意义，本实验的目的就是探讨艾灸联合生物反馈与电刺激治疗女性压力性尿失禁的临床效果。
+　　方法：收集我院妇产科门诊西医诊断为轻、中度女性压力性尿失禁，中医辨证属肾气虚型的患者120例，根据随机抽样的方法分为治疗组和对照组，各60例，对照组通过盆底康复仪进行盆底功能康复治疗（生物反馈+电刺激），3天一次，10次为一个疗程。治疗组在对照组的基础上联合应用艾条灸气海、关元、中极穴，每处灸5-7分钟，共20分钟，隔天一次，20次为一疗程。治疗前后观察患者国际尿失禁咨询委员会尿失禁问卷表简表（ICI-Q-SF）评分、会阴肌力及三维B超下监测膀胱颈移动度（UVJ-M）、膀胱尿道后角（PUVA）和盆膈裂孔前后径、左右径、面积的变化，进行临床疗效的评价，并在治疗结束后3个月、6个月进行随访。
+　　结果：经治疗后，两组各项指标较治疗前均有改善，治疗组与对照组比较， ICI-Q-SF评分明显降低，并且在3个月、6个月随访中ICI-Q-SF评分也较对照组降低。一个疗程治疗后及3个月、6个月随访治疗组较对照组I类肌力改善明显，II类肌力改善不明显，两者差别无统计学差异。三维B超结果提示，经一个疗程治疗后，两组UVJ-M和PUVA较治疗前均降低（P<0.05），治疗组较对照组两项指标明显降低；治疗后3个月，治疗组与对照组比较，PUVA减小，UVJ-M差异无统计学意义；治疗后6个月，治疗组UVJ-M和PUVA水平均降低。在静息期，治疗后、3个月、6个月治疗组与对照组比较，盆膈裂孔左右径、前后径及面积均降低。在缩肛期，一个疗程治疗后盆膈裂孔前后径、左右径均降低，盆膈裂孔面积虽减小，但无统计学意义；疗程结束后3个月随访，盆膈裂孔左右径及面积均降低，但盆膈裂孔左右径无统计学差异；疗程结束后6个月随访，盆膈裂孔左右径及面积均减小，盆膈裂孔前后径虽减小，但无统计学差异。临床疗效比较，1个疗程治疗结束后、3个月、6个月总有效率分别为96.67％、88.33%、81.67%,与对照组比较差异明显，临床疗效总有效率优于对照组，远期疗效好。
+　　结论：艾灸联合生物反馈与电刺激和单用生物反馈与电刺激对女性压力性尿失禁均有治疗作用，但联合应用优于单用生物反馈与电刺激，且远期疗效更佳。
+K1 艾灸 女性压力性尿失禁 生物反馈 电刺激治疗 临床疗效
+K1 Stress urinary incontinence Biofeedback and electrical stimulation Moxibustion
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 盆底康复治疗联合艾灸治疗女性压力性尿失禁的临床观察
+JF 养生保健指南
+JF Health Guide
+SN 1006-6845
+YR 2017
+IS 35
+OP 73
+AB 目的:探讨盆底康复治疗联合艾灸治疗女性压力性尿失禁的临床效果.方法:研究来自我院2015年8月至2017年2月期间收治的女性压力性尿失禁患者,随机分为对照组与观察组各40例,对照组运用常规治疗与主动式训练治疗,观察组运用盆底康复治疗联合艾灸治疗,分析两组患者治疗后的盆底肌收缩力、治疗疗效情况差异.结果:在治疗有效率上,观察组为95%,对照组为77.5%,两组对比具有统计学意义(p<0.05);半年内复发率上,观察组为7.5%,对照组为22.5%,两组对比具有统计学意义(p<0.05);在盆底肌收缩力指数上,观察组治疗后显著高于对照组,两组对比具有统计学意义(p<0.05).结论:盆底康复治疗联合艾灸治疗女性压力性尿失禁可以有效的提升治疗疗效,提升盆底肌收缩力,减少复发率.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=ysbjzn-x201735062
+DO 10.3969/j.issn.1006-6845.2017.35.062[doi]
+A1 吴海玲; 方莉; 汪宏玲; 卜祥静; 张志芳; 缪艳
+NO 作者个数:6;第一作者:吴海玲
+AD 银川市妇幼保健院 750001
+K1 盆底康复治疗  艾灸  女性压力性尿失禁  治疗效果
+K1 Stress urinary incontinence  Biofeedback and electrical stimulation  Moxibustion
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 艾灸治疗老年女性压力性尿失禁13例临床体会
+JF 中国老年保健医学
+JF Chinese Journal of Geriatric Care
+SN 1672-4860
+YR 2013
+IS 6
+OP 79-79
+AB 尿失禁系尿液不自主地从尿道流出，常见于老年人，尤其是老年女性。压力性尿失禁，又称张力性尿失禁，指腹压增高时尿液不自主地自尿道口漏出，是最常见的女性尿失禁类型。即在咳嗽、打喷嚏、屏气用力等腹压突然增加时，症状加重，且往往病程长，严重影响患者的生活质量，给老年患者带来极大的痛苦。笔者于2012年2月～2013年6月，运用艾灸治疗老年女性尿失禁13例，疗效尚佳，兹介绍如下。
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=zglnbjyx201306045
+DO 10.3969/j.issn.1672-4860.2013.06.045[doi]
+A1 谢珍囡
+NO 作者个数:1;第一作者:谢珍囡
+AD 成都市慢性病医院 康复医学科 610083
+K1 艾灸  老年女性  尿失禁
+K1 Stress urinary incontinence  Biofeedback and electrical stimulation  Moxibustion
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 艾灸配合盆底肌训练对产后压力性尿失禁患者生活质量的影响
+JF 中西医结合心血管病电子杂志
+JF Cardiovascular Disease Journal of Integrated Traditional Chinese and Western Medicine(Electronic)
+SN 2095-6681
+YR 2020
+VO 8
+IS 6
+OP 163-164
+AB 目的 探讨艾灸配合盆底肌训练对产后压力性尿失禁患者生活质量的影响.方法 选取40例产后压力性尿失禁患者,分为两组,每组20例.联合组采用艾灸联合盆底肌训练康复治疗;药物组服用盐酸度洛西汀,每次40 mg,每日2次.上述方法均6 d为1个疗程,共观察4个疗程,1个月后随访.治疗后及随访时采用尿失禁生活质量量表(I-QOL)进行生活质量评价,并比较2组的临床疗效.结果 近远期疗效比较,联合组优于药物组,差异有统计学意义(P<0.05);患者治疗后、随访时生活质量的各个方面均较治疗前明显改善,治疗后及随访联合组在限制性行为、心理影响、社交活动受限方面改善明显优于药物组,差异有统计学意义(P<0.05).结论 艾灸联合盆底肌训练治疗产后压力性尿失禁效果显著,能有效改善患者产后生活质量.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=zxyjhxxgbdzzz202006133
+A1 刘样; 胡蓉; 楼天晓; 袁光辉; 李德钊; 邓春花
+NO 作者个数:6;第一作者:刘样
+AD 湖南中医药高等专科学校,湖南株洲,412012;株洲市中心医院,湖南株洲,412007
+K1 产后压力性尿失禁  艾灸  盆底肌训练  生活质量
+K1 Stress urinary incontinence  Biofeedback and electrical stimulation  Moxibustion
+LA chi
+PP 中国
+DS 万方数据
+基金项目:湖南省教育厅科技处课题(13C704)
+
+RT Journal
+T1 俞募配穴艾灸法为主治疗女性压力性尿失禁的疗效探讨
+JF 实用妇科内分泌电子杂志
+JF Journal of Practical Gynecologic Endocrinology
+SN 2095-8803
+YR 2019
+VO 6
+IS 27
+OP 40-41
+AB 目的 探讨俞募配穴艾灸法为主治疗女性压力性尿失禁的临床疗效.方法 选择2017年2月～2019年1月在淮安市中医院收住的80位女性患者作为治疗对象,随机数字表将患者分为对照组(n=40)和观察组(n=40).对照组给予常规治疗,观察组在对照组基础上联合俞募配穴艾灸法进行治疗,随访治疗4周后对患者治疗效果进行评估,比较两组治疗效果及两组治疗前后漏尿量及尿失禁量情况.结果 两组患者经过随访4周后,观察组治疗总有效率(97.50％)明显高于对照组(72.50％)(P<0.05);治疗4周后,两组漏尿量及尿失禁量均较治疗前明显减少,且观察组漏尿量及尿失禁量明显少于对照组,差异有统计学意义(P<0.05).结论 将俞募配穴艾灸法用于治疗女性压力性尿失禁效果显著,能有效改善女性压力性尿失禁的病理变化,提高了患者的生活质量,值得推广应用.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=syfknfm-e201927030
+A1 蔡建桃
+NO 作者个数:1;第一作者:蔡建桃
+AD 淮安市中医院,江苏 淮安,223001
+K1 俞募配穴  艾灸法  女性  压力性  尿失禁
+K1 Stress urinary incontinence  Biofeedback and electrical stimulation  Moxibustion
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 艾灸配合盆底肌训练治疗产后压力性尿失禁临床观察
+T2 Clinical Observation of Moxibustion plus Pelvic Floor Muscle Exercises for Postpartum Stress Urinary Incontinence
+JF 上海针灸杂志
+JF Shanghai Journal of Acupuncture and Moxibustion
+SN 1005-0957
+YR 2018
+VO 37
+IS 2
+OP 192-195
+AB 目的 比较艾灸配合盆底肌训练与单纯盆底肌训练或单纯西药治疗产后压力性尿失禁的疗效差异.方法 将58例符合标准的患者按照随机数字表法分为联合组(19例)、训练组(19例)、西药组(20例).联合组采用盆底肌训练与艾灸穴位相配合的方法,盆底肌训练每日3次,每次5 min;艾灸足三里、三阴交、关元、中极、气海,每日1次,每次30 min.训练组采用肌力训练方式训练盆底部肌肉,每日3次,每次5 min.西药组服用盐酸度洛西汀,每天80 mg(每次40 mg,每日2次).上述治疗均6 d为1个疗程,共观察4个疗程,1个月后随访.采用1 h尿垫试验记录漏尿量,于治疗前、治疗后及1个月后随访进行国际尿失禁咨询委员会尿失禁问卷简表(ICIQ-UI-SF)评分,比较各组评分情况,并比较3组近、远期疗效.结果 联合组近期疗效及远期疗效优于训练组和西药组(P<0.05).联合组患者在治疗后和随访时漏尿量、ICIQ-UI-SF评分均较治疗前明显改善(P<0.01);治疗后联合组在1 h尿垫试验记录漏尿量、ICIQ-UI-SF评分方面改善优于训练组和西药组(P<0.01,P<0.05).结论 艾灸配合盆底肌训练疗法能改善产后压力性尿失禁患者近期生活质量.艾灸配合盆底肌训练疗法对产后压力性尿失禁患者远期生活质量改善优于单纯的盆底肌训练方法.
+AB Objective To compare the clinical efficacy among moxibustion plus pelvic floor muscle exercises, pelvic floor muscle exercises, and Western medication in treating postpartum stress urinary incontinence. Method Fifty-eight eligible patients were divided by the random number table into an integration group (19 cases), an exercise group (19 cases) and a Western medication group (20 cases). The integration group was intervened by pelvic floor muscle exercises plus moxibustion, 3 times of exercises a day, 5 min each time, and moxibustion at Zusanli (ST36), Sanyinjiao (SP6), Guanyuan (CV4), Zhongji (CV3) and Qihai (CV6), once a day, 30 min each session. The exercise group was intervened by muscle force exercises to train the pelvic floor muscle, 3 times a day, 5 min each time. The Western medication group was intervened by oral administration of Duloxetine hydrochloride, 80 mg a day (40 mg per dose, twice a day). For the above methods, 6 d was taken as a course of treatment. Four treatment courses were observed, with a 1-month follow-up study. The 1-hour pad test was used to record the volume of urine leak. Before and after the treatment, as well as in the 1-month follow-up, the International Consultation on Incontinence Questionnaire-Urinary Incontinence-Short Form (ICIQ-UI-SF) score was evaluated and compared among the groups, and the short-term and long-term therapeutic efficacies were also compared. Result The short-term and long-term therapeutic efficacies of the integration group were superior to those of the exercise group and Western medication group (P<0.05). The integration group showed significant improvement after the treatment and in the follow-up study compared to the pre-treatment state (P<0.01); after the intervention, the integration group was better than the exercise group and Western medication group in comparing the urine leak volume by the 1 h pad test and ICIQ-UI-SF score (P<0.01,P<0.05). Conclusion Moxibustion plus pelvic floor muscle exercises can improve the short-term quality of life of patients with postpartum stress urinary incontinence. This method can produce a better effect in improving the quality of life compared to pelvic floor muscle exercises alone.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=shzjzz201802015
+DO 10.13460/j.issn.1005-0957.2018.02.0192[doi]
+A1 刘样; 胡蓉; 袁光辉; 陈欢; 邓春花;[LIU Yang; HU Rong; YUAN Guang-hui; CHEN Huan; DENG Chun-hua]
+NO 作者个数:5;第一作者:刘样
+AD 湖南中医药高等专科学校,株洲,412012;株洲市中心医院,株洲,412007
+K1 尿失禁 压力性  盆底肌训练  艾条灸  ICIQ-UI-SF  1h尿垫试验
+K1 Urinary incontinence Stress  Pelvic floor muscle exercises  Moxa-stick moxibustion  ICIQ-UI-SF  1 h pad test
+LA chi
+PP 中国
+DS 万方数据
+基金项目:湖南省教育厅科技处课题(13C704)
+
+RT Journal
+T1 艾灸联合盆底肌训练治疗老年女性压力性尿失禁临床研究
+JF 河北中医
+JF Hebei Journal of Traditional Chinese Medicine
+SN 1002-2619
+YR 2019
+VO 41
+IS 9
+OP 1407-1410
+AB 目的 观察艾灸联合盆底肌训练治疗老年女性压力性尿失禁(SUI)的临床疗效及对患者日常生活的影响.方法 采用回顾性队列研究方法,通过查阅医院病历资料收集女性SUI患者60例.观察组30例予艾灸联合盆底肌训练;对照组30例仅接受盆底肌训练.2组均治疗6周.比较2组临床效果、治疗前后国际尿失禁咨询委员会问卷简表(ICI-Q-SF)评分.结果 观察组临床疗效优于对照组(P＜0.05).治疗后2组ICI-Q-SF评分均降低(P＜0.01),观察组治疗后ICI-Q-SF评分低于对照组(P＜0.05).结论 艾灸联合盆底肌训练治疗老年女性SUI有一定的疗效,值得临床推广.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=hbzy201909027
+DO 10.3969/j.issn.1002-2619.2019.09.027[doi]
+A1 李红; 李金辉; 李永杰; 李方玲
+NO 作者个数:4;第一作者:李红
+AD 北京老年医院中医科,北京,100095
+K1 尿失禁 压力性  艾炷灸  回顾性研究
+K1 Urinary incontinence Stress  Pelvic floor muscle exercises  Moxa-stick moxibustion  ICIQ-UI-SF  1 h pad test
+LA chi
+PP 中国
+DS 万方数据
+基金项目:北京中医药科技发展资金项目(JJ2016-09)
+
+RT Journal
+T1 针灸结合盆底肌训练治疗产后压力性尿失禁
+T2 Effect of Acupuncture on Postpartum Stress Urinary Incontinence
+JF 中国康复理论与实践
+JF Chinese Journal of Rehabilitation Theory and Practice
+SN 1006-9771
+YR 2011
+VO 17
+IS 7
+OP 671-672
+AB 目的 观察针灸结合盆底肌训练治疗产后压力性尿失禁的疗效。方法 100例符合筛选条件、自然分娩的产妇分成对照组50例和治疗组50例。对照组单纯采用盆底肌训练，治疗组采用针灸(毫针针刺、艾灸)和盆底肌训练综合治疗。于治疗4周后进行疗效评定。结果 治疗组总有效率84％，对照组总有效率56％(χ2=10.54，P＜0.01)。结论 针灸治疗可提高盆底肌训练对产后压力性尿失禁的疗效。
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=zgkfllysj201107022
+DO 10.3969/j.issn.1006-9771.2011.07.022[doi]
+A1 韩红; 黎明;[HAN Hong; LI Ming]
+NO 作者个数:2;第一作者:韩红
+AD 湖北省武汉市普爱医院(西区)康复科,湖北武汉市,430034;湖北省省直医院康复科,湖北武汉市,430071
+K1 针灸  盆底肌训练  压力性尿失禁  产后
+K1 Urinary incontinence Stress  Pelvic floor muscle exercises  Moxa-stick moxibustion  ICIQ-UI-SF  1 h pad test
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 艾灸关元穴治疗老年女性压力性尿失禁30例
+JF 国际中医中药杂志
+JF International Journal of Traditional Chinese Medicine
+SN 1673-4246
+YR 2013
+VO 35
+IS 5
+OP 442
+AB 压力性尿失禁是女性常见病,老年女性人群中23％～45％有不同程度的尿失禁,在7％的重症患者中约50％为压力性尿失禁[1]310.我们采用艾灸关元穴治疗,效果良好,现报告如下.
+1资料与方法
+1.1一般资料:收集2010年3月至2011年11月石家庄市正定县中医院门诊患者60例,均符合女性压力性尿失禁诊断标准[1] 314.按病例尾号随机分为两组各30例,治疗组年龄61～72岁、平均(64.53±3.09)岁;病程6～14年、平均(7.83±3.81)年.对照组年龄62～70岁、平均(65.41±2.98)岁;病程5～15年、平均(6.92±3.09)年.两组患者在年龄、病程方面比较,差异无统计学意义(P＞0.05),具有可比性.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=gwyx-zyzyfc201305021
+DO 10.3760/cma.j.issn.1673-4246.2013.05.021[doi]
+A1 肖春风; 李建坤; 韦哲; 高占强; 张春芳
+NO 作者个数:5;第一作者:肖春风
+AD 050800,河北省石家庄市正定县中医院脑病科
+K1 Urinary incontinence Stress  Pelvic floor muscle exercises  Moxa-stick moxibustion  ICIQ-UI-SF  1 h pad test
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 俞募配穴艾灸法为主治疗女性压力性尿失禁的疗效观察
+T2 Efficacy Observation of the Treatment of Female Stress Urinary Incontinence Predominantly with Moxibustion at Back-Shu and Front-Mu Points
+JF 上海针灸杂志
+JF Shanghai Journal of Acupuncture and Moxibustion
+SN 1005-0957
+YR 2018
+VO 37
+IS 7
+OP 773-776
+AB 目的 观察俞募配穴艾灸法配合护理干预治疗女性压力性尿失禁的临床疗效.方法 将70例女性压力性尿失禁患者随机分为治疗组和对照组,每组35例.对照组采用常规护理干预,治疗组在对照组基础上采用俞募配穴艾灸法治疗.观察两组治疗前后及治疗后8周随访时1h尿垫试验(漏尿量)、国际尿失禁咨询委员会问卷量表(ICIQ-SF)评分及尿动力学各项指标(功能尿道长度、腹压漏尿点压、平均尿流率)的变化情况,并比较两组临床疗效及复发率.结果 治疗组总有效率为88.6％,对照组为65.7％,两组比较差异有统计学意义(P＜0.05).两组治疗后1h尿垫试验(漏尿量)、ICIO-SF评分及尿动力学各项指标与同组治疗前比较,差异均具有统计学意义(P＜0.01,P＜0.05).治疗组治疗后1h尿垫试验(漏尿量)、ICIQ-SF评分及尿动力学各项指标与对照组比较,差异均具有统计学意义(P＜0.01,P＜0.05).治疗组治疗后8周复发率为6.5％,对照组为26.1％,两组比较差异具有统计学意义(P＜0.05).结论 俞募配穴艾灸法配合护理干预治疗女性压力性尿失禁疗效确切,能改善患者尿动力学指标及生存质量,减少漏尿量.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=shzjzz201807012
+DO 10.13460/j.issn.1005-0957.2018.13.0095[doi]
+A1 彭玉勃; 孙丹; 黄敬文; 那继文; 董晓红;[PENG Yu-bo; SUN Dan; HUANG Jing-wen; NA Ji-wen; DONG Xiao-hong]
+NO 作者个数:5;第一作者:彭玉勃
+AD 黑龙江中医药大学佳木斯学院,佳木斯,154007;黑龙江中医药大学佳木斯学院附属医院,佳木斯,154000
+K1 灸法  尿失禁 压力性  俞募配穴
+K1 Urinary incontinence Stress  Pelvic floor muscle exercises  Moxa-stick moxibustion  ICIQ-UI-SF  1 h pad test
+LA chi
+PP 中国
+DS 万方数据
+基金项目:黑龙江省自然科学基金面上项目(H2015023)%黑龙江中医药大学校基金项目(XJJ2015034)
+
+RT Dissertation
+T1 隔盐灸神阙穴为主治疗女性肾阳虚型压力性尿失禁的临床研究
+A1 李莎
+A3 李建强
+ED 硕士
+PB 广州中医药大学
+NO 针灸推拿学
+YR 2016
+CL [R694.54, R245]
+AB 目的:
+　　本研究通过观察隔盐灸神阙穴联合盆底肌肉电刺激生物反馈治疗女性肾阳虚型压力性尿失禁的临床疗效，并与单纯应用盆底电刺激生物反馈治疗进行对比，探讨隔盐灸神阙穴联合电刺激生物反馈治疗压力性尿失禁的优越性，以期为临床提供一种疗效确切的治疗方案。
+　　方法:
+　　本研究以肾阳虚型压力性尿失禁患者为研究对象，根据诊断标准、纳入标准、排除标准，共纳入符合要求的受试者80例，随机分为两组，对照组40例，治疗组40例。
+　　对照组给予电刺激生物反馈的治疗方法，试验组给予隔盐灸神阙穴联合电刺激生物反馈。两组疗程:隔日治疗1次，3次/周，6周1个疗程，共治疗6周。
+　　疗效评价指标:主观尿失禁评分、尿失禁Gullen分度、肾阳虚症状评分、尿失禁生活质量评价量表(Ⅰ-QOL)、72h尿失禁次数、总体疗效。
+　　成果:
+　　1.本研究为随机对照试验，治疗前研究对象的年龄、体重指数(BMI)、病程、孕产次、Ⅰ-QOL评分、主观尿失禁等级评分、尿失禁Gullen分度、肾阳虚症状评分随机均衡于两组之内，具有可比性。
+　　2.生活质量的评分(Ⅰ-QOL):两组患者治疗前后生活质量评分(Ⅰ-QOL)分别进行组内比较，差异均具有统计学意义(P＜0.05)，说明两组治疗方法均对患者生活质量具有改善。治疗结束时的试验组生活质量评分(84.14±11.82)明显高于对照组(77.28±9.228)，P＜0.05;可见试验组对生活质量的改善优于对照组。
+　　3.尿失禁Gullen分度变化:两组治疗前后Gullen分度进行组内比较，差异具有统计学意义(P＜0.05)，说明两组治疗方法均能降低患者漏尿程度。对照组治疗前1度漏尿、2度漏尿、3度漏尿、4度漏尿比例分别为44.12％、41.18％、14.71％、0％，治疗后分别为64.70％、26.47％、8.8％、0％;试验组治疗前1度漏尿、2度漏尿、3度漏尿、4度漏尿比例分别为0％、50％、41.67％，、8.33％、0％，治疗后分别为69.44％、27.78％、2.78％、0％。治疗后进行组间比较，差异无统计学意义。可见，试验组的治疗方法对尿失禁Gullen分度的改善并不优于对照组。
+　　4.主观尿失禁等级评分:两组治疗前后主观尿失禁等级评分分别进行组内比较，差异具有统计学意义(P＜0.05)，说明两组治疗方法均能降低患者漏尿程度。对照组治疗前尿失禁评分0分、1分、2分、3分、4分比例分别为0％、14.71％、64.71％、20.59％、0％，治疗后分别为2.94％、17.65％、58.82％、20.59％、0％;试验组治疗前尿失禁评分0分、1分、2分、3分、4分比例分别为0％、5.56％、66.67％、27.78％、0％，治疗后分别为5.56％、22.22％、58.33％、19.44％、0％。治疗后进行组间比较，差异无统计学意义。可见，试验组的治疗方法对尿失禁等级评分的改善并不优于对照组。
+　　5.72h尿失禁次数:两组患者治疗前后72h尿失禁频率分别进行组内比较，差异均具有统计学意义(P＜0.05)，说明两组治疗方法均能降低漏尿频率。治疗结束时的试验组72h尿失禁频率(3.38±6.05)明显低于对照组(7.38±6.26)，P＜0.05;可见试验组对72h尿失禁频率的改善明显优于对照组。
+　　6.肾阳虚评分:两组患者治疗前后肾阳虚评分分别进行组内比较，差异均具有统计学意义(P＜0.05)，说明两组治疗方法均能改善患者肾阳虚症状。治疗结束时的试验组肾阳虚评分(2.59±0.925)明显低于对照组(4.35±2.10)，P＜0.05;可见试验组对肾阳虚症状的改善优于对照组。
+　　7.总体临床疗效:对照组好转15例，痊愈6例，总有效率为61.1％;试验组好转21例，痊愈10例，总有效率为86.1％，P＜0.05。试验组总体临床疗效优于对照组。
+　　结论:
+　　1.两种治疗方法对女性压力性尿失禁均有效。
+　　2.隔盐灸神阙穴联合盆底肌肉生物反馈电刺激治疗女性压力性尿失禁在72h尿失禁频率、生活质量评价量表(Ⅰ-QOL)、肾阳虚症状评分方面的改善均优于单纯盆底肌肉电刺激生物反馈治疗;而在改善患者尿失禁等级程度方面无明显差异。
+　　3.隔盐灸是用盐作介质在神阙穴上进行艾灸的方法，通过盐、艾、穴位的共同作用，能温补阳气，培肾固本。
+K1 压力性尿失禁 肾阳虚型 女性患者 隔盐灸疗法 神阙穴 临床疗效
+K1 Urinary incontinenceStress Pelvic floor muscle exercises Moxa-stick moxibustion ICIQ-UI-SF 1 h pad test
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 艾灸联合盆底康复缓解产后盆底功能障碍的疗效观察
+JF 护理与康复
+JF Nursing and Rehabilitation Journal
+SN 1671-9875
+YR 2020
+VO 19
+IS 9
+OP 56-58
+AB 目的 观察艾灸联合盆底康复治疗产后盆底功能障碍的临床效果.方法 按随机数字表将128例患者分为观察组与对照组各64例,对照组用盆底康复仪治疗,观察组在对照组的基础加用艾灸治疗,10周为1个疗程.观察患者治疗后盆腔脏器脱垂和压力性尿失禁疗效.结果 1个疗程后观察组盆腔脏器脱垂治疗有效率81.3％,对照组43.8％,x2=19.20,P<0.001.两组压力性尿失禁治疗有效率差别不大.结论 采用艾灸联合盆底康复治疗盆底功能障碍,改善了盆腔脏器脱垂及产后尿失禁症状.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=hlykf202009015
+DO 10.3969/j.issn.1671-9875.2020.09.015[doi]
+A1 汪红娟; 章丽英; 徐纬
+NO 作者个数:3;第一作者:汪红娟
+AD 杭州市第三人民医院,浙江杭州 310009
+K1 产妇  盆底功能障碍  艾灸  康复治疗
+K1 Urinary incontinence Stress  Pelvic floor muscle exercises  Moxa-stick moxibustion  ICIQ-UI-SF  1 h pad test
+LA chi
+PP 中国
+DS 万方数据
+
+RT Dissertation
+T1 艾灸结合盆底肌训练治疗女性轻中度压力性尿失禁的临床观察
+A1 余芳芳
+A3 安军明
+ED 硕士
+PB 陕西中医药大学
+NO 针灸推拿
+YR 2019
+K1 艾灸 盆底肌 训练治疗 女性 轻中度 压力性尿失禁
+K1 Urinary incontinenceStress Pelvic floor muscle exercises Moxa-stick moxibustion ICIQ-UI-SF 1 h pad test
+LA chi
+PP 中国
+DS 万方数据
+
+RT Conference Proceeding
+A1 张鼎  王夏  安军明
+AD [西安市中医医院针灸推拿康复科,西安 710021, 西安市中医脑病医院针灸科,西安 710043]
+T1 艾灸疗法联合PFMT治疗女性轻中度单纯压力性尿失禁的临床研究
+JF 2017世界针灸学术大会暨2017中国针灸学会年会论文集
+OP 1-10
+PB 中国针灸学会
+YR 2017
+PP 北京
+LA chi
+K1 艾灸疗法 盆底肌训练 压力性尿失禁 疗效观察
+K1 Urinary incontinenceStress Pelvic floor muscle exercises Moxa-stick moxibustion ICIQ-UI-SF 1 h pad test
+AB 　　研究目的：主要比较艾灸疗法联合盆底肌训练和单纯盆底肌训练治疗女性轻中度单纯压力性尿失禁的临床疗效.研究方法：将女性轻中度单纯压力性尿失禁患者65例采用随机数字表法分为2组：艾灸疗法联合盆底肌训练为治疗组(n=32),单纯盆底肌训练组为对照组(n=33).治疗组艾灸穴位选取气海穴、关元穴、中极穴、双侧肾俞穴、双侧次髎穴,腹部腧穴与背部腧穴在每周一、三、五交替使用.艾灸器材选取百笑灸,将百笑灸置于穴位上施行温和灸,致局部皮肤发热、微红.艾灸治疗每周一、三、五治疗一次,持续8周,共治疗24次,每次艾灸时间以每穴每柱百笑灸燃完为宜.盆底肌训练方法同对照组.对照组盆底肌训练按kegel方法,采取站立、坐位和仰卧等体位进行,在研究人员的指导下进行收缩盆底肌10s,放松10s,重复以上动作,持续15分钟为一次治疗.每周在周一、三、五训练3回,每次训练分为早、中、晚三回,各15分钟,持续8周,共治疗24次.两组第0周为筛选期,第1周至第8周为治疗期,第9周到第12周均为随访期,以平均24小时尿失禁次数的减少值、严重指数评价表的变化、平均24h漏尿程度为主要结局指标；以患者主观疗效评价、1h尿垫试验漏尿量的变化值、ICIQ-SF量表评分为次要结局指标；观察两组在各评价时点的差异,探讨艾灸和盆底肌训练治疗女性压力性尿失禁的疗效.研究结果：1.治疗组总有效率为90.4％(29/32),对照组总有效率为75.3％(24/33),治疗组优于对照组(P＜0.05).2.与治疗前相比,两组平均24小时尿失禁次数的减少值、严重指数评价表的变化、平均24h漏尿程度、1h尿垫试验漏尿量的变化值、ICIQ-SF量表评分明显下降(P＜0.05).与对照组相比,治疗组平均24小时尿失禁次数的减少值、严重指数评价表的变化、平均24h漏尿程度、1h尿垫试验漏尿量的变化值、ICIQ-SF量表评分明显下降(P＜0.05).3.两组患者在治疗后,患者主观疗效均认为治疗有效(P＜0.05)；与治疗前相比,治疗组患者主观疗效评价优于对照组(P＜0.05).结论：艾灸联合盆底肌训练治疗女性压力性尿失禁起效快,近期疗效、远期疗效均优于单纯盆底肌训练组；对于轻中度女性压力性尿失禁患者,不愿接受针刺的受试者,艾灸疗法配合盆底肌训练是一项较好的选择.
+UL http://www.wanfangdata.com.cn/details/detail.do?_type=conference&id=9624775
+DB 北京万方数据股份有限公司
+
+RT Dissertation
+T1 艾灸治疗脊髓损伤后膀胱功能障碍的临床研究
+A1 任亚锋
+A3 张博爱
+ED 博士
+PB 郑州大学
+NO 临床医学
+YR 2015
+CL [R694.5, R245.81]
+AB 脊髓损伤(spinal cord injury,SCI)的发病率近年来在国内外均呈上升趋势,据文献报道，该病在美国发病率为20～45例/百万人口，患病率为900例/百万人口。在中国内地，随着人们生活水平的逐步提高改善，汽车等交通工具的日益普及，SCI的发病率也在同步迅猛增长，仅在中国北京地区的调查资料就显示，年发病率为68例/百万，年龄大多在25～40岁之间。而脊髓损伤后神经源性膀胱造成的膀胱功能障碍可终身存在，其造成的尿失禁、尿潴留、泌尿系统感染、结石、肾积水、肾功能不全乃至肾衰，严重影响患者的身心健康，同时也是最终引起死亡的主要原因之一。因此有效的治疗脊髓损伤后神经源性膀胱功能障碍早已经得到国际医学界的重视。
+　　目的:
+　　通过观察艾灸法配合间歇导尿对神经源性膀胱功能障碍患者治疗前后残余尿量（residualurine,RU），最大膀胱容积(maximum bladder capacity,MBC)，充盈期逼尿肌压力（Pressur of detrusor maximum，Pdet.max）,最大尿道压（maximum urethral pressure，MUP），尿内白细胞数的定量变化，膀胱平衡状态的影响，研究其治疗机理，明确临床效果，为下一步规范和扩大临床应用及实验研究提供更切实的依据。
+　　方法:
+　　按照中华医学会2005年出版的《临床诊疗指南-物理医学与康复分册》“神经源性膀胱的诊断要点”及《中医病症诊断疗效标准》的诊断标准、试验病例标准，将120例符合纳入标准的临床病例通过随机数字表，随机分为两组：治疗组和对照组。对照组采用传统间歇导尿法，治疗组在此基础上加艾灸法，两组间歇导尿治疗每日均进行，治疗组加艾灸法治疗每天1次，共6周。选择RU， MBC，Pdet.max，MUP，尿内白细胞数的定量变化，膀胱平衡状态为观察指标，疗效指标于治疗前及治疗后6周各记录一次。统计分析方法，定量指标符合正态分布者采用均数、标准差进行描述，不符合正态分布者采用中位数、四分位数描述。定性指标以频数、百分率描述。定量数据属正态分布且方差齐者采用T检验，方差不齐者采用校正T检验，非正态分布者采用wilcoxon秩和检验。两组疗效等级资料分析用Ridit检验。定性数据采用x2检验。P≤0.05被认为差别有统计学意义。
+　　结果:
+　　1临床疗效比较
+　　120例患者，治疗组60例，其中临床痊愈49例，显效7例，无效4例，有效率93.4％；对照组60例，其中临床痊愈20例，显效21例，无效19例，有效率68.3%。经 Ridit分析，a=0.05，两个致信区间无重叠部分，说明治疗组疗效优于对照组有显著意义。
+　　2治疗前后尿动力学变化的比较
+　　治疗组与对照组治疗前RU、MBC、MUP、Pdet.max比较均为：P>0.05，无显著差异，具有可比性；以上各个项目治疗组治疗前后比较均为：P<0.05，差异显著，说明艾灸配合间歇导尿法可以减少 RU，降低 Pdet.max，增加 MBC及MUP，改善低顺应性膀胱的顺应性。对照组治疗前后各项目比较，除RU：P<0.05外，余均为：P＞0.05说明对照组治疗，仅对减少RU有显著差异，对改善低顺应性膀胱的顺应性无明显效果。两组治疗后有效指标RU的组间比较，P<0.05，说明减少RU，治疗组优于对照组。
+　　3治疗前后尿中白细胞数的定量变化的比较
+　　治疗组与对照组治疗前尿中白细胞数比较P＞0.05，无统计学意义，具有可比性；治疗组治疗前后比较 P<0.05，有统计学意义，说明艾灸配合间歇导尿法能减少神经源性膀胱患者泌尿系感染机率；对照组治疗前后各项目比较P<0.05，说明有统计学意义。两组治疗后有效指标白细胞数组间比较 P>0.05，说明减少神经源性膀胱患者泌尿系感染机率，两组间无统计学意义。
+　　4治疗后膀胱功能平衡状态的比较
+　　两组治疗后膀胱功能平衡状态例数比较采用 x2检验，P<0.05，有统计学意义，说明治疗组和对照组均有明显改善膀胱功能平衡状态的作用，但前者优于后者。
+　　结论:
+　　艾灸法配合间歇导尿能明显改善神经源性膀胱功能障碍患者的膀胱功能，减少患者残余尿量，增加最大膀胱容积及最大尿道压，降低充盈期逼尿肌压力，促进达到膀胱功能平衡状态，但对泌尿系感染的预防及治疗作用与间歇导尿基本相同。而间歇导尿对改善低顺应性膀胱的顺应性无明显效果，即对膀胱排空有一定作用，但不能彻底在排尿期将尿液排空，而且，对低压储尿，控尿，低压排尿无意义。
+K1 脊髓损伤 膀胱功能障碍 尿潴留 间歇导尿 艾灸治疗 临床疗效
+K1 Urinary incontinenceStress Pelvic floor muscle exercises Moxa-stick moxibustion ICIQ-UI-SF 1 h pad test
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 补中益气丸联合艾炙法对全子宫切除术后盆底功能影响的临床研究
+T2 The effect of Buzhong Yiqi pills combined with moxibustion on pelvic floor function after total hysterectomy
+JF 国际医药卫生导报
+JF International Medicine and Health Guidance News
+SN 1007-1245
+YR 2018
+VO 24
+IS 21
+OP 3229-3233
+AB 目的 观察补中益气丸联合艾灸法运用对全子宫切除术(Total Hysterectomy,TH)术后患者盆底功能的影响.方法 选择2015年3月至2016年12月在本科住院的非脱垂TH患者62例为研究对象,随机分为两组:空白对照组、治疗组,治疗组采用内服补中益气丸+穴位艾灸(气海、关元、百会穴)治疗.最终通过术前、术后每3个月共12个月进行关于压力性尿失禁及盆底功能的妇科-泌尿病例问卷调查,并进行盆底肌肉肌力测定和POP-Q分度、性功能障碍诊断量表及评分表进行比较分析,从尿失禁、阴道顶端脱垂、盆底肌肉肌力、性功能等方面客观评价补中益气丸联合艾灸对TH术后女性盆底功能的作用.结果 两组患者术后随访1年均未发生尿失禁.阴道前后壁Aa、Ap、Ba、Bp点在空白组呈进行性下降趋势,术后与术前比较差异有统计学意义(P＜0.05),在治疗组各点术后与术前比较差异无统计学意义(P＞0.05);C点测量值在空白组中随时间延长而降低,术后3、6、9、12个月与术前比较差异有统计学意义(P＜0.05),治疗组术后3、6、9、12个月与术前比较差异无统计学意义(P＞0.05).盆底肌肉肌力在空白组呈进行性下降趋势,术后3、6、9、12个月与术前比较差异有统计学意义(P＜0.05);治疗组在术后9、12个月与术前比较差异无统计学意义(P＞0.05).性生活评分在空白组呈进行性下降趋势,术后3、6、9、12个月与术前比较差异有统计学意义(P＜0.05);治疗组性生活评分在术后12个月较术前提高,差异有统计学意义(P＜0.05).结论 TH对女性盆底功能的近期影响是引起阴道松弛、降低盆底肌肉肌力及性生活质量.术后给予补中益气丸口服联合穴位艾灸可以减少或延缓TH术后盆底功能障碍性疾病的发生,是简便效廉、易于掌握、值得临床推广的方法.
+AB Objective To observe the effect of Buzhong Yiqi pills combined with moxibustion on pelvic floor function after total hysterectomy (TH).Methods 62 cases of inpatients with TH without prolapse of uterus in our department from March 2015 to December 2016 were selected as the study subjects and were randomly divided into two groups:blank control group and treatment group.The treatment group was treated with oral Buzhong Yiqi pills and moxibustion (Qihai,Energy Pass,Baihui).Through the preoperative and postoperative every 3 months for a total of 12 months of stress urinary incontinence (SUI) and pelvic floor function related gynaecology-urinary cases questionnaire were conducted,pelvic floor muscle strength,POP-Q degree,sexual dysfunction diagnostic scale were analyzed,the effect of Buzhong Yiqi pills combined with moxibustion on pelvic floor function after TH was objectively evaluated from urinary incontinence,vaginal apical prolapse,pelvic floor muscle strength,sexual function and so on.Results There were no SUI cases in the two groups within 1 year after surgery.Aa,Ap,Ba and Bp points of anterior and posterior vaginal walls showed a progressive decline trend in the blank control group,with statistically significant differences before and after surgery (P＜0.05);there were no statistically significant differences before and after surgery in the treatment group (P＞0.05).The measurement value of C point decreased with time in the blank control group,with statistically significant differences before and 3,6,9,12 months after surgery (P＜0.05);there were no statistically significant differences before and 3,6,9,12 months after surgery in the treatment group (P＞0.05).The pelvic floor muscle strength showed a progressive decline trend in the blank control group,with statistically significant differences before and 3,6,9,12 months after surgery (P＜0.05);there were no statistically significant differences before and 9,12 months after surgery in the treatment group (P＞0.05).Sexual life score showed a progressive decline trend in the blank control group,with statistically significant differences before and 3,6,9,12 months after surgery (P＜0.05);sexual life score in the treatment group 12 months after surgery was higher than that before surgery,with statistically significant difference (P＜0.05).Conclusion The recent influence of TH on the pelvic floor function of women results in vaginal relaxation,reduction of pelvic floor muscle strength and sexual quality.Buzhong Yiqi pills combined with moxibustion can reduce or delay the occurrence of pelvic floor dysfunction diseases after TH,simple,easy to grasp,and worthy of clinical promotion.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=gjyywsdb201821007
+DO 10.3760/cma.j.issn.1007-1245.2018.21.005[doi]
+A1 刘敏; 彭慧娟; 程思; 向东方; 叶淑华;[Liu Min; Peng Huijuan; Cheng Si; Xiang Dongfang; Ye Shuhua]
+NO 作者个数:5;第一作者:刘敏
+AD 广东省中医院芳村医院芳村妇科, 广州,510120
+K1 补中益气丸  艾灸  子宫全切除术  女性盆底功能
+K1 Buzhong Yiqi pill  Moxibustion  Total hysterectomy  Female pelvic floor function
+LA chi
+PP 中国
+DS 万方数据
+基金项目:广东省中医药局项目(20141132)Project Supported by Traditional Chinese Medicine Bureau of Guangdong Province (20141132)
+
+RT Journal
+T1 隔姜灸配合中药敷贴在老年尿失禁患者持续管理中的应用
+JF 光明中医
+JF Guangming Journal of Chinese Medicine
+SN 1003-8914
+YR 2015
+IS 11
+OP 2372-2373
+AB 目的：探讨采用艾灸配合中药敷贴在老年压力性尿失禁患者持续管理中的应用效果。方法将符合观察条件的老年压力性尿失禁患者随机分为治疗组和对照组，对照组采用单纯盆底肌锻炼；治疗组在进行盆底肌锻炼的基础上采取隔姜灸神阙穴位后予中药贴敷。结果治疗组患者尿漏情况较对照组明显减轻。两组的疗效及干预前后1h尿垫试验漏尿量差异治疗组优于对照组，均具有统计学意义（ P＜0．01）。结论隔姜灸配合中药敷贴在老年尿失禁患者持续管理中有明显效果。
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=gmzy201511053
+DO 10.3969/j.issn.1003-8914.2015.11.052[doi]
+A1 王红娣; 梁亚琴; 胡元凤; 夏燕; 王芹
+NO 作者个数:5;第一作者:王红娣
+AD 江苏省东台市中医院护理部 东台 224200
+K1 隔姜灸  中药敷贴  老年压力性尿失禁  持续管理
+K1 Buzhong Yiqi pill  Moxibustion  Total hysterectomy  Female pelvic floor function
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 经尿道前列腺电切术后尿失禁的针灸治疗及护理
+JF 微创医学
+JF JOURNAL OF MINIMALLY INVASIVE MEDICINE
+SN 1673-6575
+YR 2013
+VO 8
+IS 6
+OP 770-771
+AB 良性前列腺增生症行经尿道前列腺等离子汽化电切术(TURP)是治疗BPH的常用治疗方法,手术后发生的尿失禁,严重影响了手术效果和患者的生活质量.而针刺和温灸疗法能通过刺激穴位,激发经络的功能,达到治疗尿失禁的目的,从而提高患者的治愈率.我科自2009年以来,采用电针刺配合艾灸疗法并结合药物、功能锻炼等治疗前列腺电切术后发生急迫性和压力性尿失禁患者16例,疗效良好,现报告如下.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=yxwx201306047
+A1 元丽; 陆毅; 欧梅芳
+NO 作者个数:3;第一作者:元丽
+AD 广西中医药大学附属瑞康医院泌尿外科,南宁市,530011
+K1 针灸  前列腺电切术后尿失禁  护理
+K1 Buzhong Yiqi pill  Moxibustion  Total hysterectomy  Female pelvic floor function
+LA chi
+PP 中国
+DS 万方数据
+
+RT Journal
+T1 针灸治疗脑卒中后神经源性膀胱的临床研究
+JF 微创医学
+JF JOURNAL OF MINIMALLY INVASIVE MEDICINE
+SN 1673-6575
+YR 2011
+VO 06
+IS 4
+OP 356-357
+AB 控制排尿功能的中枢神经系统或周围神经受到损害而引起的膀胱尿道功能障碍称为神经源性膀胱(neurogenic bladder).脑卒中后排尿障碍多为无抑制性神经源性膀胱引起,是由于大脑或脑干的排尿中枢及其下行纤维的不完全性双侧性损害,使排尿中枢对膀胱的反射抑制作用减弱所致,病变部位在两侧大脑半球的旁中央小叶、脑干或其下行的锥体束.临床主要表现为尿频、尿急及急迫性尿失禁等症状,部分病人出现压力性尿失禁或遗尿,直接影响着患者生活质量.笔者于2007年3月至2010年10月对临床确诊的脑卒中后神经源性膀胱所致排尿障碍患者采用电针联合艾灸治疗,取得满意疗效,现报告如下.
+LK http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=yxwx201104027
+DO 10.3969/j.issn.1673-6575.2011.04.027[doi]
+A1 黄东挺; 蒋瑞舟; 刘文伟
+NO 作者个数:3;第一作者:黄东挺
+AD 广西壮族自治区江滨医院针推理疗科,南宁市,530027
+K1 神经源性膀胱  脑卒中  针灸
+K1 Buzhong Yiqi pill  Moxibustion  Total hysterectomy  Female pelvic floor function
+LA chi
+PP 中国
+DS 万方数据
+基金项目:广西卫生厅科研计划课题(Z2009415)
+
+RT Dissertation
+T1 穴位不留针治疗女性尿道综合征的研究
+A1 张大成
+A3 许能贵
+ED 博士
+PB 广州中医药大学
+NO 针灸推拿学
+YR 2017
+CL [R245.31, R695.1]
+AB 女性尿道综合征(Female urethral syndrome，FUS)是现代常见的一组症候群，主要临床症状为典型的尿频、尿急、排尿不畅。次要临床状症为小腹坠胀或疼痛感、尿痛、尿失禁等症状，但没有膀胱或尿道器质性病变的一种临床常见症状。随着时代进步，城市人生活节奏加快，生活水平提高，工作和人际关系的精神压力大增，社会环境快速变化等因素的负面影响下，患者的人数正在不断递增，而且在不同年龄层的女性都会发生女性尿道综合征，但中青年女性患者最为普遍。大多数研究认为中青年女性因工作忙碌，且大量没完没了的工作再加上需要兼顾家庭，使精神压力大增。她们发病的情况也轻重不一，而且容易反复发作，常突然出现尿频、尿急、排尿不畅等症状，令他们不喜外出，可说是苦不堪言。在深夜睡眠时也常因需要排尿而反复起床影响睡眠质素，又因睡眠不足精神欠佳令日间的工作更难完成，这种恶性循环会逐渐加重患者的精神压力，另症状不断出现，病情也不断恶化。而现代医学研究还没有对其病因、病机有清晰而明确的认知。到目前为止也没有有效专为女性尿道综合征治疗的方案。因此还是有众多女性尿道综合征患者因此而严重影响日常生活。但目前现代医学普遍认为女性尿道综合征的主要成因与心理因素、生活行为、雌激素水平下降、免疫因素等方面有关。
+　　综观中医经典古籍，虽未有找到与尿道综合征同一病名的疾病，但观察其临床症状和病因病机的特征，应属中医学的“淋证”范畴，在医宗金鉴的淋证门有提及症状如“以致水道涩滞，欲出不出，淋漓不断，甚至窒塞其间，令儿作痛……”。在诸病源候论则提及症状如“肾虚则小便数，膀胱热则水下涩。数而且涩，则淋沥不宣，故谓之为淋”。中医学认为本病的发生与肝、脾、肾有着莫大的关系。肾与膀胱是相表里的对应关系，膀胱的功能是排尿和储存尿液，对津液的气化和排泄产生了生理上的共同作用。
+　　女性尿道综合征其主要临床症状为典型的尿频、尿急、排尿不畅。次要临床症状为小腹坠胀或疼痛感、尿痛、尿失禁等等。
+　　近年国内外许多学者都在尿道综合征上有了很多新的认识，如尿道综合征可类分为排尿不适和无菌性的尿频综合征，是指经常出现尿急、尿频等症状影响生活的综合征，也可从女性的尿道结构上来分类。
+　　从国内现有文献来看，西医的治疗方法大多侧重于口服或注射药物、局部麻醉手术治疗、CT或核磁振等介入治疗。但在历史悠久的中医发展道路上，我们发展出多元化的治疗方法如中药口服、针刺、穴位贴敷、穴位埋线、穴位注射、电针、耳针、艾灸、推拿等。
+　　本次研究在对临床症状的诊断和疗效方面，以传统中医学理论结合现代神经学理论为基础，也参考了天津中医学院《穴位不留针针麻施行眼科手术的临床分析》启发[75]。其研究总结穴位不留针针麻下施行7种眼科手术175例的麻醉效果进行分析优良率91.04％，成功率98.28％。手术时间最短15分钟，最长2小时，多数病例为30-45分钟，实践证明不留针针麻可在时间较长的各种眼科手术时采用。穴位不留针与留针组在手术效果比较，穴位不留针组成功率和优良率都较高，其中针拨白内障术采用穴位不留针针麻全部成功，体现了麻醉和手术均发扬中医特色的临床实践。穴位不留针针麻除与留针针麻有共同的镇痛优点外，尚有解决了留针针麻可引起的肌肉颤动。
+　　目的:
+　　本课题采用小样本随机对照临床研究，通过观察、比较针刺留针组与不留针组对女性尿道综合征的疗效的差异，及两组治疗前后症状的变化找出对女性尿道综合征更有效的治疗方法。
+　　方法:
+　　研究基理，人体的交感神经系统能控制膀胱壁肌肉松弛，使人体尿意的感觉减轻，但相反人体的副交感神经系统能控制膀胱壁肌肉收缩，使人体尿意的感觉加重。正常人体机能状态下，副交感神经和交感神经的功能相反而又相互制衡的。当两组神经系统中的一方正在活跃时，另一方则功能低落，生理活动就能得到协调和平衡。但当患者精神紧张时交感和副交感神经出现混乱，或在卧床针刺时精神过度放松令副交感神经出现过度活跃的情况，都能令膀胱壁肌肉收缩使女性尿道综合征患者在接受治疗时得不到预期的治疗效果。所以在针刺时选择穴位不留针能令患者尽快完成针刺治疗，减少针刺治疗时带来的精神过度紧张，或卧床太久令精神过度放松而产生的神经系统混乱使膀胱壁肌肉收缩而引至治疗效果不显。
+　　研究病例样本，对符合要求纳入研究的58例病例样本随机分为对照组28例病例样本和观察组30例病例样本。
+　　（一）病例样本的来源
+　　女性尿道综合征的病例样本，需要符合一定的纳入条件，其包括性别、年龄、诊断标准、排除标准。由2016年3月至2017年1月期间，病例样本的来源来自广州中医药大学第一附属医院、香港城市医心中医诊所、部分征求广州和香港民众。
+　　（二）诊断女性尿道综合征的标准
+　　1.西医诊断女性尿道综合征的标准
+　　参照《现代中医肾脏病学》[35]诊断标准:
+　　①有尿频、尿急、尿痛、排尿不适;
+　　②连续3次尿细菌培养阴性，感染性尿道综合征，尿中白细胞增多，但每高倍视野＜5个，非感染性尿道综合征尿常规正常;
+　　③有长期使用抗生素无效史。
+　　④排除外阴部局部的因物理性、生理性、化学性及刺激性，妇科疾病、还有滴虫等引起的感染。
+　　2.中医诊断女性尿道综合征的标准
+　　参照《现代中医肾脏病学》有关标准:小便频数，排尿无力，尿有余沥，尿痛不甚，每因思虑劳习而加重，伴少气懒言，倦怠乏力，五心烦热，自汗盗汗，舌淡，苔白，脉细数[36]。以及《中医内科学》中有关淋证的诊断标准拟定[37]。本研究主要是以气淋、劳淋为主。
+　　①气淋有实证和虚证的分型，其症状主要为尿急、尿频、排尿不畅、少腹拘急。实证以疏理肝气为治则。虚症以益肾补脾为治则。
+　　②劳淋有肾阴不足证、阴阳两虚证和气阴两虚证3种分型，主要症状为小便急短，尿频、排尿腰酸甚疼痛，小腹不适。肾阴不足证以滋补肾阴为治则，阴阳两虚证以助阳滋阴治为治则，气阴两虚证以养阴益气为治则。
+　　（三）女性尿道综合征的病例样本纳入标准
+　　①有尿频、排尿不畅的症状。
+　　②年龄范围在18-60岁之间的女性。
+　　③尿常规正常，中段尿细菌培养3次以上均为阴性。
+　　④中医诊断为气淋或劳淋。
+　　（四）女性尿道综合征的排除标准
+　　①不符合女性尿道综合征的诊断标准。
+　　②无尿频、排尿不畅。
+　　③在1个月内或现正使用任何药物治疗女性尿道综合征的病例样本。
+　　④哺乳期或妊娠，或合并有凝血或造血系统等严重原发病的病例样本。
+　　⑤精神障碍或精神病的严重病例样本。
+　　（五）脱落标准
+　　①凡不符合女性尿道综合征纳入标准，而被误纳入的病例样本，予以剔除。
+　　②使收集的研究临床资料不全的病例样本。
+　　③纳入后，患者因任何原因在数据收集阶段要求改变其他治疗方案或停止接受
+　　④使收集的研究数据不全，影响疗效结果等病例样本。
+　　对照组患者采用侧卧式留针针刺治疗，观察组患者采用侧卧式不留针针刺治疗，在选取穴位方面本次研究以腰骶部的穴位:三焦俞、肾俞、气海俞、中膂俞、会阳、委阳为主，每星期2次，每8次治疗为1疗程。在观察2个疗程后进行评比。在2个疗程的治疗前后各以不同的评分量表进行评价，对比两组病例样本症状的改善情况和治疗效果。
+　　结果:
+　　治疗前，对照组病例样本与观察组病例样本的年龄差异和病程轻重程度上等指标经统计学的检验后差异没有统计学意义(P＞0.05)，两组病例样本均具可比性。另外经统计学的检验后对照组病例样本与观察组病例样本的各症状评分结果均没有差异没有统计学意义（P＞0.05），两组病例样本均具可比性。
+　　经2个疗程治疗后，以女性尿道综合征评分(FUSS)和生活质量评估(QOL)对两组疗效进行评估，对照组的有效率为72.13％，观察组的有效率为83.16％，显示两组病例样本经治疗后均有明显治疗效果。而且抑郁自评量表(SDS)结果显示观察组的患者治疗后的指数由44.03％降至35.83％，组内指标比较有统计学意义（P＜0.05），说明患者对抑郁情况也有明显的改善。女性尿道综合征评分(FUSS)结果显示观察组的患者治疗后的指数由22.14％降至8.21％，组内指标比较有统计学意义（P＜0.05），说明患者女性尿道综合征症状也有明显的改善。生活质量评估(QOL)结果显示观察组的患者治疗后的指数由3.55％降至1.41％，组内指标比较有统计学意义（P＜0.05），说明患者也有明显的改善。
+　　在改善尿急、尿频、排尿不畅等女生尿道综合征的症状方面，对照组病例样本和观察组病例样本在各自单一症状的组内指标比较有统计学意义（P＜0.05），但以观察组更为显着，且改善项目更多。
+　　结论:
+　　穴位不留针治疗与常规留针治疗两种方式，从研究结果来看对女生尿道综合征的患者均有多方面的改善，但总体来说穴位不留针治疗效果优于常规留针治疗。此方法为临床研究带来新思路方向而从经济学上也有明显的减省时间、人力成本和资源的效益。
+K1 女性尿道综合征 穴位不留针 针刺疗法 临床疗效
+K1 Buzhong Yiqi pill Moxibustion Total hysterectomy Female pelvic floor function
+LA chi
+PP 中国
+DS 万方数据
